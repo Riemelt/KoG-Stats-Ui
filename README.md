@@ -1,3 +1,1 @@
 # KoG-Stats-Ui
-
-test
